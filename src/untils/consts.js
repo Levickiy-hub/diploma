@@ -1,0 +1,5 @@
+export const AUTH_ROUTE ='/auth'
+export const ADMIN_ROUTE ='/admin'
+export const TEACHER_ROUTE ='/teacher'
+export const STUDENT_ROUTE ='/student'
+export const UPDATEPASSWORD_ROUTE='/updatepassword'

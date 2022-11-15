@@ -1,0 +1,19 @@
+ .paperStyle{padding:20px;
+     position:fixed;
+     min-width:40%;
+     min-height:300px;
+     overflow:auto;
+     max-width: 100%;
+     max-height: 100%;
+ }
+ .divStyle{  display: flex;}
+ .divStyleCell{margin:10px}
+ .buttonStyle{margin:10px 0px 0px 0px;}
+ .divDayTime{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: center;
+     align-content: center;
+     margin-left: 40%;
+ }

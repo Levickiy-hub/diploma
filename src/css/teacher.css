@@ -1,0 +1,11 @@
+.tableCell{
+    color:white;
+    background: #1976d2;
+}
+
+.tableCellHead{
+    font: 22px/26px sans-serif;
+    color: white;
+    background: #1976d2;
+    padding:0 0 0 45%;
+}
